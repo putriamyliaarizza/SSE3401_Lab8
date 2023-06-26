@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "138507063581",
+    "project_id": "putri-photo-album",
+    "storage_bucket": "putri-photo-album.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:138507063581:android:ac852ef74107c621a911f4",
+        "android_client_info": {
+          "package_name": "com.example.photo_album"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "138507063581-tg0a0g2si54ajlm4qskabvb2g8l6c85l.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCFX25Pv57IcBvHA2-K8nmdxadNOSDW7c4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "138507063581-tg0a0g2si54ajlm4qskabvb2g8l6c85l.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
